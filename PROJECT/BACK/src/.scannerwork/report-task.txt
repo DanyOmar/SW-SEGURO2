@@ -1,0 +1,6 @@
+projectKey=crudfinal
+serverUrl=http://localhost:9000
+serverVersion=10.4.0.87286
+dashboardUrl=http://localhost:9000/dashboard?id=crudfinal
+ceTaskId=9d528219-81eb-4e2b-af07-e08e99eb852a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9d528219-81eb-4e2b-af07-e08e99eb852a
